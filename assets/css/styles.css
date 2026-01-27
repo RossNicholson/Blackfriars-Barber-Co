@@ -225,6 +225,8 @@ a:focus-visible { outline: 2px solid var(--colour-accent); outline-offset: 2px; 
 .footer-contact { font-size: var(--text-sm); }
 .footer-contact p { margin: 0 0 var(--space-xs); }
 .footer-bottom { margin-top: var(--space-xl); padding-top: var(--space-lg); border-top: 1px solid rgba(255,255,255,0.15); font-size: var(--text-sm); color: rgba(247, 245, 242, 0.7); }
+.footer-bottom a { color: rgba(247, 245, 242, 0.9); }
+.footer-bottom a:hover { color: var(--colour-white); text-decoration: none; }
 
 /* Buttons & CTAs */
 .btn {
