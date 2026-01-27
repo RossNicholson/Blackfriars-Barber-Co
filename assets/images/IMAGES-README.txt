@@ -7,6 +7,8 @@ HOME
 ----
 hero-exterior-barbershop.jpg
   → Exterior of the barbershop: facade, signage, or street-front. Full-width hero on index.html.
+  → Also used as the default social preview image (Open Graph / Twitter). For best results use 1200×630 px.
+  → Optional: add og-image.jpg (1200×630) and update og:image / twitter:image in each page’s <head> for a dedicated social card.
 
 map-12-tudor-street-blackfriars.jpg
   → Static map or street view of 12 Tudor Street / Blackfriars area. Used on index.html (Find us) and contact.html.
