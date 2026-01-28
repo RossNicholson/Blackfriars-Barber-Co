@@ -16,35 +16,25 @@ hero-exterior-barbershop.png
 (Skipped – no map image. The site uses an address + “Get directions” link instead.)
 
 --------------------------------------------------------------------------------
-GALLERY (18 images – all PNG, square)
+GALLERY (8 images – all PNG, square)
 --------------------------------------------------------------------------------
   Display size: 400 × 400 px. Supply at 800 × 800 px for sharp retina; minimum 400 × 400 px.
 
-Cuts (6 images) – each 800 × 800 px:
+Cuts (2 images) – each 800 × 800 px:
   gallery-classic-cut-finished.png        → Classic cut, finished look (front or side).
   gallery-short-back-and-sides.png        → Short back and sides, completed.
-  gallery-textured-crop-finished.png     → Textured crop or modern short cut, finished.
-  gallery-classic-gentleman-cut.png      → Classic gentleman’s cut, smart finish.
-  gallery-scissor-work-in-progress.png    → Barber doing scissor work (in progress or detail).
-  gallery-cut-and-finish-in-chair.png    → Client in chair, cut and finish / styling.
 
-Fades (5 images) – each 800 × 800 px:
-  gallery-skin-fade-side-profile.png     → Skin fade, side profile.
-  gallery-high-fade-side.png             → High fade, side view.
-  gallery-low-fade-side.png              → Low fade, side view.
-  gallery-drop-fade-back.png             → Drop fade, back or side.
-  gallery-burst-fade-side.png            → Burst fade, side view.
+Fades (2 images) – each 800 × 800 px:
+  gallery-skin-fade-side-profile.png      → Skin fade, side profile.
+  gallery-low-fade-side.png               → Low fade, side view.
 
-Beards (3 images) – each 800 × 800 px:
-  gallery-beard-trim-and-shape.png       → Beard trim and shape, finished.
-  gallery-beard-line-up-detail.png       → Beard line-up or detail shot.
+Beards (2 images) – each 800 × 800 px:
+  gallery-beard-trim-and-shape.png        → Beard trim and shape, finished.
   gallery-full-beard-trim.png             → Full beard trim, finished.
 
-Shop (4 images) – each 800 × 800 px:
-  gallery-shop-interior-chairs-mirror.png    → Interior: chairs, mirrors, empty or with client.
-  gallery-interior-chair-and-mirror.png      → Single chair and mirror.
-  gallery-shop-front-exterior.png            → Shop front, exterior, from street.
-  gallery-client-in-chair-getting-haircut.png → Interior with client in chair and barber at work.
+Shop (2 images) – each 800 × 800 px:
+  gallery-shop-interior-chairs-mirror.png → Interior: chairs and mirrors (empty or with client).
+  gallery-shop-front-exterior.png         → Shop front, exterior, from street.
 
 --------------------------------------------------------------------------------
 ABOUT – TEAM (3 images – all PNG, square)
@@ -72,9 +62,9 @@ QUICK REFERENCE – Dimensions by type
 --------------------------------------------------------------------------------
   Hero:        1920 × 1080 px  (retina: 2400 × 1350)
   Map:        (skipped – address + Get directions link used instead)
-  Gallery:    800 × 800 px    (each of 18 images; display 400×400)
+  Gallery:    800 × 800 px    (each of 8 images; display 400×400)
   Team:       600 × 600 px    (each of 3 images; display 300×300)
   og-image:   1200 × 630 px   (optional)
 
-TOTAL: 23 PNG images (1 hero + 18 gallery + 3 team). Map skipped. Optional: og-image.png.
+TOTAL: 12 PNG images (1 hero + 8 gallery + 3 team). Map skipped. Optional: og-image.png.
 --------------------------------------------------------------------------------
