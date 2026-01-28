@@ -13,11 +13,7 @@ hero-exterior-barbershop.png
   → Photo of the exterior of the barbershop: facade, signage, or street front.
   → Used as the main hero image on the homepage and as the default social preview (Open Graph / Twitter).
 
-map-12-tudor-street-blackfriars.png
-  Dimensions: 1100 × 400 px (covers Contact page; scales down on Home). For retina: 2200 × 800 px.
-  → Static map or street view of 12 Tudor Street / Blackfriars area.
-  → Used on the homepage (Find us) and on the Contact page.
-  → Alternatively replace the <img> in the HTML with an iframe map embed and skip this image.
+(Skipped – no map image. The site uses an address + “Get directions” link instead.)
 
 --------------------------------------------------------------------------------
 GALLERY (18 images – all PNG, square)
@@ -75,10 +71,10 @@ og-image.png                            1200 × 630 px (exact)
 QUICK REFERENCE – Dimensions by type
 --------------------------------------------------------------------------------
   Hero:        1920 × 1080 px  (retina: 2400 × 1350)
-  Map:        1100 × 400 px   (retina: 2200 × 800)
+  Map:        (skipped – address + Get directions link used instead)
   Gallery:    800 × 800 px    (each of 18 images; display 400×400)
   Team:       600 × 600 px    (each of 3 images; display 300×300)
   og-image:   1200 × 630 px   (optional)
 
-TOTAL: 24 PNG images (1 hero + 1 map + 18 gallery + 3 team). Optional: og-image.png.
+TOTAL: 23 PNG images (1 hero + 18 gallery + 3 team). Map skipped. Optional: og-image.png.
 --------------------------------------------------------------------------------
